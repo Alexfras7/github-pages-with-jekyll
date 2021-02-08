@@ -1,5 +1,7 @@
 # Your GitHub Learning Lab Repository for GitHub Pages
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d9a21de6f3c448fbb40aa182a9d7ea92)](https://app.codacy.com/gh/Alexfras7/github-pages-with-jekyll?utm_source=github.com&utm_medium=referral&utm_content=Alexfras7/github-pages-with-jekyll&utm_campaign=Badge_Grade_Settings)
+
 Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. 
 
 Oh! I haven't introduced myself...
